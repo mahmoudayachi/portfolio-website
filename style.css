@@ -161,7 +161,7 @@ text-align: center;
 margin-bottom: 5rem;
 }
 .aboutme-paragraph{
-font-size: 14px;
+font-size: 16px;
 }
 .paragraph-container{
 width:60%;
@@ -285,7 +285,7 @@ flex-direction: column;
     }
 
     .aboutme-paragraph{
-        font-size: 12px;
+        font-size: 15px;
     }   
   
     .profile-img{
